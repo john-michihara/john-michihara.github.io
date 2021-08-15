@@ -21,8 +21,10 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 
 Credits:
+	Template:
+		HTML5 UP (html5up.net/)
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
@@ -31,3 +33,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Formspree (formspree.io/)
